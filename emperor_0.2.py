@@ -70,10 +70,10 @@ def main():
     print("")
     
     # my IPv6
-    src_ipv6 = "2a02:586:a502:32b3:369f:810:cfe7:fb2a"
+    src_ipv6 = "2a62:576:a402:33b5:469f:872:3f57:6b7a"
     
     # Destination IPv6
-    dst_ipv6 = "2a02:586:a502:32b3:467d:2fe1:df03:3c9"
+    dst_ipv6 = "8a02:886:a772:3543:465d:47e1:2303:5c6"
         
     # Set key
     key = b'Ksj%7tGvbmncFj@37%+0f'
