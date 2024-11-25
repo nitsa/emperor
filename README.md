@@ -3,7 +3,7 @@ We are introducing a technique using ICMPv6 error messages that allows direct an
 
 Please run emperor.py on both clients. Only requirement is for at least one of the 2 clients to know the destination IPv6 address of the other client, which should put in emperor.txt. Also, make sure source IPv6 address is fetched from correct network interface. Currently (emperor.py) it is been fetched from Wi-Fi.
 
-In prior version emperor_0.2.py the source and destination IPv6 addresses should be hard-coded.
+In prior version emperor_v0.2.py the source and destination IPv6 addresses should be hard-coded.
 
 Enjoy !
 
