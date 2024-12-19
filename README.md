@@ -3,6 +3,7 @@
 Presented at Deepsec 2024
 
 Ref 1 : https://deepsec.net/speaker.html#PSLOT732
+
 Ref 2 : https://vimeo.com/deepsec/review/1035589680/19beeb7294
 
 We are introducing a technique using ICMPv6 error messages that allows direct and autonomous P2P communication bypassing inherently the limitations imposed by router firewalls. The POC has been tested behind some home routers on Win10 machines with default software firewall settings. It also allows establishing P2P communication without the need of a 3rd party service to initiate that communication (like a STUN server). Communication is encrypted by using RC6 encrypting with hard-coded keys. It is advised to change those keys before using.
