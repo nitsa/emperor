@@ -1,6 +1,6 @@
 # Emperor : ICMPv6 p2p Communication without Third Party
 
-Presented at Deepsec 2024
+Emperor : ICMPv6 p2p Communication without Third Party (DeepSec 2024)
 
 Ref 1 : https://deepsec.net/speaker.html#PSLOT732
 
